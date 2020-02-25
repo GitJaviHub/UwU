@@ -5,17 +5,14 @@
  */
 package pistacho;
 
-/**
- *
- * @author 1a_dam20_09
- */
+
 public class Pistacho {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("No somos pistachos pero los amamos.");
     }
     
 }
