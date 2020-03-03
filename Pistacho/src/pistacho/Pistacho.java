@@ -13,6 +13,7 @@ public class Pistacho {
      */
     public static void main(String[] args) {
         System.out.println("No somos pistachos pero los amamos.");
+        System.out.println("Marcos que pasa si te miramos raro?");
     }
     
 }
